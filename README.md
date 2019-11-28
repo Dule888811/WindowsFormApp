@@ -1,5 +1,5 @@
 <p>
-                                                              General
+ General
 
 
 All code must be written using C# and Windows Forms (.NET 4.5 or newer and Visual Studio 2017)
@@ -7,12 +7,11 @@ All code must be written using C# and Windows Forms (.NET 4.5 or newer and Visua
 Test results may contain multiple projects but all projects must be a part of a single Visual Studio solution. The solution must be fully buildable without any errors or warnings
 
 All code identifiers (forms, components, classes, methods, properties, fields…) must be named using
-meaningful English names describing their function 3rd party components are not allowed
+meaningful English names describing their function 3rd party components are not all
+
+Task
 
 
-
-
-		                                                            Task
 We need a GUI application (windows Forms) that will provide functionality to search entered string in all text files in selected folder (and all its subfolders).
 
 When started, the application must provide mechanism to select desired folder and enter search string (you can use FolderBrowserDialog for folder selection).
@@ -29,8 +28,9 @@ Implement mechanism to view selected file directly in application
 
 
 
+Results
 
-				                                                      	Results
+
 After receiving this document time allowed for sending back test results is 2 days. Time limit exceeding is not allowed
 
 Results should be submitted as a fully buildable single solution and source code files only, excluding all binaries and executables
@@ -42,8 +42,9 @@ We can’t accept test results sent in any other way (i.e. file sharing website 
 
 
 
-
-					                                                          Notes
+ Notes
+ 
+ 
 Additional test clarification or consultations are not available and all such emails will be ignored until the test is completed. When in doubt resolve all questions and concerns the best way you see fit
 
 Time spent during the test is unpaid. ApexSQL will not use the developed code or software in any way other than to evaluate candidate skills
